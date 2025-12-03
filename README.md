@@ -58,7 +58,6 @@ Experienced in developing explainable ML pipelines, integrating LLM-based soluti
 
 ### 🤖 FoodBot – Intelligent Food Delivery Chatbot — Sep 2024
 **Tech Stack:** Python, FastAPI, Dialogflow, MySQL, NLP  
-🔗 Demo/Repo: *Add link here*  
 - Developed NLP-powered chatbot with improved intent recognition accuracy by **25%**  
 - Automated workflows via FastAPI, reducing response time by **40%**  
 - Integrated MySQL with structured user/menu retrieval achieving **95% query accuracy**
