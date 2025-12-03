@@ -40,7 +40,7 @@ Experienced in developing explainable ML pipelines, integrating LLM-based soluti
 
 ### 🧠 AI Recipe Creator (LLM-based Generation) — Nov 2025
 **Tech Stack:** Python, Flask, Google Gemini AI, RAG, JavaScript, Render  
-🔗 Demo/Repo: *Add link here*  
+🔗 Demo/Repo: https://ai-recipe-generator-0ncx.onrender.com/  
 - Engineered an LLM-driven recipe generator using Gemini AI and RAG with 90% accurate image-to-text extraction  
 - Improved recipe relevance by 30% through multimodal analysis and refined prompting  
 - Optimized inference pipeline to achieve under **500ms latency** on Render  
@@ -49,7 +49,7 @@ Experienced in developing explainable ML pipelines, integrating LLM-based soluti
 
 ### 😊 Sentiment Analysis Web App — July 2025
 **Tech Stack:** Python, Scikit-learn, Flask, Gradio, Hugging Face Spaces  
-🔗 Demo/Repo: *Add link here*  
+🔗 Demo/Repo: https://gauravdhangar-sentiment-analysis-ui.hf.space/?__theme=system&deep_link=BD7x-hLScAE 
 - Trained a Naive Bayes classifier on Sentiment140 dataset achieving **82% accuracy**  
 - Migrated from Flask UI to Gradio, reducing deployment issues by **60%**  
 - Delivered fast inference (< 300ms) on Hugging Face Spaces  
