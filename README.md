@@ -1,108 +1,106 @@
+<!-- Profile Banner -->
 <div align="center">
-<h1 align="center">Hi there, I'm Gaurav Dhangar! 👋</h1>
-<h3>🤖 AI/ML Engineer | GenAI & NLP Enthusiast</h3>
-
-<p>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/gauravdhangar2002" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://www.google.com/search?q=https://x.com/gauravdhangar20" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X/Twitter"/>
-</a>
-<a href="mailto:gauravdhangnar50@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-<a href="#" target="_blank"> <!-- Replace # with your actual Portfolio URL -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Success%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox%26logoColor%3Dwhite" alt="Portfolio"/>
-</a>
-</p>
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DThegd17%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
+  <h1>👋 Hi, I'm <b>Gaurav Dhangar</b></h1>
+  <h3>AI/ML Engineer</h3>
 </div>
 
-👨‍💻 Profile Summary
-
-I am an AIML graduate based in Maharashtra, India, with hands-on experience building machine learning models, GenAI applications, and data-driven workflows.
-
-🔭 I specialize in Deep Learning, NLP, and Generative AI.
-
-⚡ I have experience deploying models using Flask, FastAPI, and Gradio.
-
-🚀 My focus is on developing explainable ML pipelines and optimizing end-to-end performance.
-
-🌱 Currently exploring Agentic AI and Transformer Models.
-
-🛠️ Tech Stack
-
-Languages
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dwhite" />
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=700&lines=AI/ML+Engineer;Deep+Learning+%7C+LLMs+%7C+GenAI+%7C+NLP;Building+Intelligent+and+Explainable+AI+Systems;Transforming+Ideas+into+Deployable+Solutions" />
 </p>
 
-AI/ML Frameworks
+---
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dflat%26logo%3Dpytorch%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat%26logo%3Dtensorflow%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dflat%26logo%3Dkeras%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging%2520Face-FFD21E%3Fstyle%3Dflat%26logo%3Dhuggingface%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--Learn-F7931E%3Fstyle%3Dflat%26logo%3Dscikitlearn%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat%26logo%3Dnumpy%26logoColor%3Dwhite" />
+## 📝 Profile Summary
+AIML graduate with hands-on experience building machine learning models, GenAI applications, and data-driven workflows. Skilled in Python, SQL, R, NLP, and Computer Vision, with multiple deployed projects using Flask, FastAPI, and Gradio.
+
+Experienced in developing explainable ML pipelines, integrating LLM-based solutions, and optimizing end-to-end performance across real-world applications. Strong foundation in data preprocessing, feature engineering, and deploying AI systems on cloud platforms.
+
+---
+
+## 🛠️ Skills
+
+### Languages
+`Python` • `SQL`
+
+### Frameworks & Libraries
+`PyTorch` • `TensorFlow` • `Keras` • `Hugging Face Transformers`  
+`Scikit-learn` • `Pandas` • `NumPy` • `OpenCV`
+
+### Tools
+`Git` • `Jupyter Notebook` • `Docker` • `FastAPI` • `Linux` • `VS Code`
+
+### AI Domains
+`Deep Learning` • `NLP` • `LLMs` • `Generative AI`  
+`Agentic AI` • `Transformer Models`
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI Recipe Creator (LLM-based Generation) — Nov 2025
+**Tech Stack:** Python, Flask, Google Gemini AI, RAG, JavaScript, Render  
+🔗 Demo/Repo: *Add link here*  
+- Engineered an LLM-driven recipe generator using Gemini AI and RAG with 90% accurate image-to-text extraction  
+- Improved recipe relevance by 30% through multimodal analysis and refined prompting  
+- Optimized inference pipeline to achieve under **500ms latency** on Render  
+
+---
+
+### 😊 Sentiment Analysis Web App — July 2025
+**Tech Stack:** Python, Scikit-learn, Flask, Gradio, Hugging Face Spaces  
+🔗 Demo/Repo: *Add link here*  
+- Trained a Naive Bayes classifier on Sentiment140 dataset achieving **82% accuracy**  
+- Migrated from Flask UI to Gradio, reducing deployment issues by **60%**  
+- Delivered fast inference (< 300ms) on Hugging Face Spaces  
+
+---
+
+### 🤖 FoodBot – Intelligent Food Delivery Chatbot — Sep 2024
+**Tech Stack:** Python, FastAPI, Dialogflow, MySQL, NLP  
+🔗 Demo/Repo: *Add link here*  
+- Developed NLP-powered chatbot with improved intent recognition accuracy by **25%**  
+- Automated workflows via FastAPI, reducing response time by **40%**  
+- Integrated MySQL with structured user/menu retrieval achieving **95% query accuracy**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:gauravdhangnar50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Thegd17"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://x.com/gauravdhangar20"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://linkedin.com/in/gauravdhangar2002"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://gd-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
-Tools & Deployment
+📍 Maharashtra, India  
+📞 +91 7666344905
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dflat%26logo%3Dfastapi%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat%26logo%3Dflask%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat%26logo%3Dlinux%26logoColor%3Dblack" />
-</p>
+---
 
-🚀 Featured Projects
-
-🍳 AI Recipe Creator (LLM-based Generation)
-
-Nov 2025 | Python, Flask, Gemini AI, RAG
-
-Engineered an LLM-driven recipe generator using Gemini AI and RAG with 90% accurate image-to-text extraction.
-
-Improved recipe relevance by 30% through multimodal analysis and refined prompting.
-
-Optimized inference pipeline to achieve <500ms latency after deployment on Render.
-
-📊 Sentiment Analysis Web App
-
-July 2025 | Python, Scikit-learn, Gradio
-
-Trained a Naive Bayes classifier on Sentiment140 achieving 82% accuracy using TF-IDF features.
-
-Migrated interface to Gradio, reducing deployment issues by 60%.
-
-Delivered <300ms prediction latency on Hugging Face Spaces.
-
-🤖 FoodBot – Intelligent Food Delivery Chatbot
-
-Sep 2024 | FastAPI, Dialogflow, MySQL
-
-Developed an NLP-powered chatbot with Dialogflow, improving intent recognition accuracy by 25%.
-
-Implemented workflow automation with FastAPI, reducing response time by 40%.
-
-Integrated MySQL for structured user and menu data retrieval with 95% query accuracy.
-
-📈 GitHub Stats
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DThegd17%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Gaurav's Stats" height="180"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DThegd17%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" height="180"/>
-</div>
+## 📊 GitHub Stats
 
 <p align="center">
-<i>"Data is the new oil, but AI is the engine."</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thegd17&show_icons=true&theme=dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thegd17&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegd17&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thegd17&theme=react-dark">
+</p>
+
+---
+
+## ✨ Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thegd17&style=for-the-badge">
 </p>
