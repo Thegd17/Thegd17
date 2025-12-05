@@ -40,7 +40,7 @@ Experienced in developing explainable ML pipelines, integrating LLM-based soluti
 
 ### 🧠 AI Recipe Creator (LLM-based Generation) — Nov 2025
 **Tech Stack:** Python, Flask, Google Gemini AI, RAG, JavaScript, Render  
-🔗 [Demo/Repo: https://ai-recipe-generator-0ncx.onrender.com/ ](https://ai-recipe-generator-ilhg3kb1l-gaurav-dhangars-projects.vercel.app/) 
+🔗 [Demo/Repo:](https://ai-recipe-generator-ilhg3kb1l-gaurav-dhangars-projects.vercel.app/) 
 - Engineered an LLM-driven recipe generator using Gemini AI and RAG with 90% accurate image-to-text extraction  
 - Improved recipe relevance by 30% through multimodal analysis and refined prompting  
 - Optimized inference pipeline to achieve under **500ms latency** on Render  
